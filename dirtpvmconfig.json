@@ -2,17 +2,17 @@
   "structure": {
     "medals": [
       {
-        "name": "Intermediate",
+        "name": "Player",
         "icon": "\uF111",
         "colour": "488"
       },
       {
-        "name": "Alien",
+        "name": "Intermediate",
         "icon": "\uF111",
         "colour": "EC3"
       },
       {
-        "name": "Alien\u002B\u002B",
+        "name": "Alien",
         "icon": "\uF05B",
         "colour": "FC4"
       }
