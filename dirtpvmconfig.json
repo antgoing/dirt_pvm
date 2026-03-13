@@ -1,1 +1,424 @@
-
+{
+  "structure": {
+    "medals": [
+      {
+        "name": "Intermediate",
+        "icon": "\uF111",
+        "colour": "488"
+      },
+      {
+        "name": "Alien",
+        "icon": "\uF111",
+        "colour": "EC3"
+      },
+      {
+        "name": "Alien\u002B\u002B",
+        "icon": "\uF05B",
+        "colour": "FC4"
+      }
+    ],
+    "id": 0
+  },
+  "maps": [
+    {
+      "uid": "J1BU4OZAI6PU2n8peVRc9c7qClj",
+      "tmx_id": 296016,
+      "name": "Oversteer",
+      "author": "Giilo",
+      "mod": "",
+      "difficulty": 0,
+      "pvm": {
+        "grade": "D",
+        "times": [
+          17350,
+          17210,
+          17148,
+        ]
+      }
+    },
+    {
+      "uid": "WQwohYvMkqLLFdiuluhRAmRPF1c",
+      "tmx_id": 286403,
+      "name": "WT - in the name of devil",
+      "author": "sqlc",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "D",
+        "times": [
+          19850,
+          19600,
+          19470
+        ]
+      }
+    },
+    {
+      "uid": "5JnwhCu44aNBfxKJW6mBccVbsXa",
+      "tmx_id": 212952,
+      "name": "m short - 22",
+      "author": "mime.wp",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "D",
+        "times": [
+          22350,
+          22090
+          21922
+        ]
+      }
+    },
+    {
+      "uid": "9ZC58CU4cpe5oQVAyUg3stj2H15",
+      "tmx_id": 56050,
+      "name": "Zackery Shorts 1 - H3llodurt",
+      "author": "velv",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "D",
+        "times": [
+          23750,
+          23500,
+          23350
+        ]
+      }
+    },
+    {
+      "uid": "Rw2YIZYuDzgaxMvUZNAvEqzPk97",
+      "tmx_id": 285552,
+      "name": "Just Doodling 2",
+      "author": "Sp4ck0",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "D",
+        "times": [
+          21950,
+          21700,
+          21530
+        ]
+      }
+    },
+    {
+      "uid": "oOnMpHRAxtPjbO4QjY1E0mLqVdd",
+      "tmx_id": 158703,
+      "name": "Dim Light",
+      "author": "jahbibbo",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "C",
+        "times": [
+          24550,
+          24280,
+          24100
+        ]
+      }
+    },
+    {
+      "uid": "nYlaLeTP3UwGt5zNWSggB3ExdAj",
+      "tmx_id": 157644,
+      "name": "mudburg",
+      "author": "Deska",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "C",
+        "times": [
+          32700,
+          32400,
+          32250
+        ]
+      }
+    },
+    {
+      "uid": "Y_UVQxQOmPCnJZAZ7yt6pQljCP5",
+      "tmx_id": 102414,
+      "name": "Ominous",
+      "author": "mime.wp",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "C",
+        "times": [
+          38900,
+          38550,
+          38320
+        ]
+      }
+    },
+    {
+      "uid": "RpW01ihIIa3tUqyTOXuXwPPomgm",
+      "tmx_id": 122185,
+      "name": "Autumn Storrm",
+      "author": "velv",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "C",
+        "times": [
+          47100,
+          46800,
+          46550
+        ]
+      }
+    },
+    {
+      "uid": "b2j5hsi8dr_BNvlwqUQXbK9WpXj",
+      "tmx_id": 145765,
+      "name": "Fondant",
+      "author": "sophie.ice",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "C",
+        "times": [
+          43100,
+          42850,
+          42650
+        ]
+      }
+    },
+    {
+      "uid": "awG5iLLQONap4IMigEhGqPThgNm",
+      "tmx_id": 229237,
+      "name": "DW25 - Sugar",
+      "author": "mime.wp",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "B",
+        "times": [
+          47900,
+          47550,
+          47350
+        ]
+      }
+    },
+    {
+      "uid": "oLGW9eZS6IYIP730zXMVwRdKxod",
+      "tmx_id": 235758,
+      "name": "DW25 - Boa Crusher",
+      "author": "velv",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "B",
+        "times": [
+          47500,
+          47250,
+          47050
+        ]
+      }
+    },
+    {
+      "uid": "jUilUpJZ7SsSiLqAxx2nVsEieSc",
+      "tmx_id": 184045,
+      "name": "Okinawa",
+      "author": "sqlc",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "B",
+        "times": [
+          40600,
+          40270,
+          40000
+        ]
+      }
+    },
+    {
+      "uid": "iFu0PqOlI32f2Bgl_2UGnCE41x0",
+      "tmx_id": 72733,
+      "name": "Cliffside",
+      "author": "SkiFreak",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "B",
+        "times": [
+          50350,
+          50000,
+          49750
+        ]
+      }
+    },
+    {
+      "uid": "uuoEjpN8S854N9kOw_Xl_rta4s3",
+      "tmx_id": 292879,
+      "name": "bump",
+      "author": "koomah",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "B",
+        "times": [
+          42600,
+          42250,
+          42000
+        ]
+      }
+    },
+    {
+      "uid": "CIDssxsPFMtwkTlgLGBJk3kmese",
+      "tmx_id": 154571,
+      "name": "Tagilla",
+      "author": "velv",
+      "mod": "https://cdn.evotm.com/tm2020/EVO_MOD.zip",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "A",
+        "times": [
+          49800,
+          49450,
+          49200
+        ]
+      }
+    },
+    {
+      "uid": "vjyNNUu997cC5PW8e3x7Y9RsAF0",
+      "tmx_id": 237664,
+      "name": "DW25 - Acchitchi",
+      "author": "sqlc",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "A",
+        "times": [
+          48150,
+          47750,
+          47500
+        ]
+      }
+    },
+    {
+      "uid": "LErkJnoPnX3Jcca_IThO9vLLQ5b",
+      "tmx_id": 216943,
+      "name": "Colors ft' sqlc, mime",
+      "author": "speq",
+      "mod": "",
+      "difficulty": 0,
+      "pvm": {
+        "grade": "A",
+        "times": [
+          48800,
+          48400,
+          48150
+        ]
+      }
+    },
+    {
+      "uid": "AN7SYCughAg7YiLsseS3pn7vxz8",
+      "tmx_id": 213226,
+      "name": "Occitan",
+      "author": "Novu",
+      "mod": "",
+      "difficulty": 0,
+      "pvm": {
+        "grade": "A",
+        "times": [
+          53550,
+          53150,
+          52850
+        ]
+      }
+    },
+    {
+      "uid": "LOy5YvDS_SMipe3IzCmGizu041d",
+      "tmx_id": 224700,
+      "name": "HUMBLE.",
+      "author": "mime.wp",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "A",
+        "times": [
+          50500,
+          50100,
+          49850
+        ]
+      }
+    },
+    {
+      "uid": "HUT9Go8yWR3QSSweeX4VrZpM0Gh",
+      "tmx_id": 223847,
+      "name": "WMC - Tilia",
+      "author": "sqlc",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "S",
+        "times": [
+          43650,
+          43250,
+          43000
+        ]
+      }
+    },
+    {
+      "uid": "aouXvPLM4pAcf5e3KO_EjpCtWF7",
+      "tmx_id": 279039,
+      "name": "Not Yet ft Djabski",
+      "author": "Basto",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "S",
+        "times": [
+          49000,
+          48600,
+          48322
+        ]
+      }
+    },
+    {
+      "uid": "DchM1eQ9v_gfQvTkrGmTcR3KZZ4",
+      "tmx_id": 244236,
+      "name": "Toffee ft' sqlc",
+      "author": "Novu",
+      "mod": "",
+      "difficulty": 0,
+      "pvm": {
+        "grade": "S",
+        "times": [
+          50050,
+          49600,
+          49290
+        ]
+      }
+    },
+    {
+      "uid": "QCH8CzEZB0HnZROBmNuhWK4Xqn",
+      "tmx_id": 140582,
+      "name": "Spork in the Road",
+      "author": "velv",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "S",
+        "times": [
+          52900,
+          52500,
+          52250
+        ]
+      }
+    },
+    {
+      "uid": "GJgucT4kY4C4Z_zJ1dLYS0KT8j",
+      "tmx_id": 300358,
+      "name": "Kocchi Muite, Amore ft' Giilo",
+      "author": "mime.wp",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "S",
+        "times": [
+          54000,
+          53600,
+          53300
+        ]
+      }
+    }
+  ]
+}
