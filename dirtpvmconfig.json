@@ -28,7 +28,7 @@
       "mod": "",
       "difficulty": 0,
       "pvm": {
-        "grade": "D",
+        "grade": "E",
         "times": [
           17400,
           17250,
@@ -44,7 +44,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "D",
+        "grade": "E",
         "times": [
           19850,
           19600,
@@ -60,7 +60,7 @@
       "mod": "",
       "difficulty": 2,
       "pvm": {
-        "grade": "D",
+        "grade": "E",
         "times": [
           22350,
           22090,
@@ -76,7 +76,7 @@
       "mod": "",
       "difficulty": 2,
       "pvm": {
-        "grade": "D",
+        "grade": "E",
         "times": [
           23750,
           23500,
@@ -92,7 +92,7 @@
       "mod": "",
       "difficulty": 2,
       "pvm": {
-        "grade": "D",
+        "grade": "E",
         "times": [
           21800,
           21570,
@@ -108,7 +108,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "C",
+        "grade": "D",
         "times": [
           24550,
           24280,
@@ -124,7 +124,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "C",
+        "grade": "D",
         "times": [
           32700,
           32400,
@@ -140,7 +140,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "C",
+        "grade": "D",
         "times": [
           38900,
           38550,
@@ -156,7 +156,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "C",
+        "grade": "D",
         "times": [
           47100,
           46800,
@@ -172,7 +172,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "C",
+        "grade": "D",
         "times": [
           43100,
           42850,
@@ -188,7 +188,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "B",
+        "grade": "C",
         "times": [
           47900,
           47550,
@@ -204,7 +204,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "B",
+        "grade": "C",
         "times": [
           47500,
           47250,
@@ -220,7 +220,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "B",
+        "grade": "C",
         "times": [
           40600,
           40270,
@@ -236,7 +236,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "B",
+        "grade": "C",
         "times": [
           50350,
           50000,
@@ -252,7 +252,7 @@
       "mod": "",
       "difficulty": 2,
       "pvm": {
-        "grade": "B",
+        "grade": "C",
         "times": [
           42600,
           42250,
@@ -268,7 +268,7 @@
       "mod": "https://cdn.evotm.com/tm2020/EVO_MOD.zip",
       "difficulty": 1,
       "pvm": {
-        "grade": "S",
+        "grade": "A",
         "times": [
           48800,
           48450,
@@ -284,7 +284,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "S",
+        "grade": "A",
         "times": [
           48150,
           47750,
@@ -300,7 +300,7 @@
       "mod": "",
       "difficulty": 0,
       "pvm": {
-        "grade": "A",
+        "grade": "B",
         "times": [
           48800,
           48400,
@@ -316,7 +316,7 @@
       "mod": "",
       "difficulty": 0,
       "pvm": {
-        "grade": "A",
+        "grade": "B",
         "times": [
           53550,
           53150,
@@ -332,7 +332,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "A",
+        "grade": "B",
         "times": [
           50500,
           50100,
@@ -348,7 +348,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "A",
+        "grade": "B",
         "times": [
           43650,
           43250,
@@ -364,7 +364,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "S",
+        "grade": "A",
         "times": [
           49000,
           48600,
@@ -380,7 +380,7 @@
       "mod": "",
       "difficulty": 0,
       "pvm": {
-        "grade": "S",
+        "grade": "A",
         "times": [
           50050,
           49600,
@@ -396,7 +396,7 @@
       "mod": "",
       "difficulty": 2,
       "pvm": {
-        "grade": "A",
+        "grade": "B",
         "times": [
           52900,
           52500,
@@ -412,11 +412,91 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "S",
+        "grade": "A",
         "times": [
           54000,
           53600,
           53300
+        ]
+      }
+    },
+     {
+      "uid": "A5B0BB8eczuJib4BC12cJwsnJme",
+      "tmx_id": 180973,
+      "name": "CYAN",
+      "author": "elliot",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "S",
+        "times": [
+          47250,
+          46780,
+          46400
+        ]
+      }
+    },
+     {
+      "uid": "dE6HhYXkArJrTTTokopZy5VgsE0",
+      "tmx_id": 211791,
+      "name": "ACP#11 - Just a Chill Night ft'Speq",
+      "author": "Xefas.",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "S",
+        "times": [
+          70200,
+          69500,
+          69000
+        ]
+      }
+    },
+    {
+      "uid": "g5TTPXQRlfxhl3ZUmvoGlLP4TU8",
+      "tmx_id": 265242,
+      "name": "Emerge",
+      "author": "Basto",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "S",
+        "times": [
+          49900,
+          49370,
+          49000
+        ]
+      }
+    },
+    {
+      "uid": "AIMtIDua5NpoCb58gAexWTIyAcg",
+      "tmx_id": 286939,
+      "name": "so G•I•R•L•",
+      "author": "ZiggyyKayy",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "S",
+        "times": [
+          44500,
+          44040,
+          43750
+        ]
+      }
+    },
+    {
+      "uid": "8hDYsqJJaQk5ID0si5QXc5PD_z6",
+      "tmx_id": 130699,
+      "name": "Fallout",
+      "author": "mime.wp",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "S",
+        "times": [
+          61980,
+          61375,
+          60950
         ]
       }
     }
