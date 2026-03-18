@@ -261,38 +261,6 @@
       }
     },
     {
-      "uid": "CIDssxsPFMtwkTlgLGBJk3kmese",
-      "tmx_id": 154571,
-      "name": "Tagilla",
-      "author": "velv",
-      "mod": "https://cdn.evotm.com/tm2020/EVO_MOD.zip",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "A",
-        "times": [
-          48800,
-          48450,
-          48200
-        ]
-      }
-    },
-    {
-      "uid": "vjyNNUu997cC5PW8e3x7Y9RsAF0",
-      "tmx_id": 237664,
-      "name": "DW25 - Acchitchi",
-      "author": "sqlc",
-      "mod": "",
-      "difficulty": 1,
-      "pvm": {
-        "grade": "A",
-        "times": [
-          48150,
-          47750,
-          47500
-        ]
-      }
-    },
-    {
       "uid": "LErkJnoPnX3Jcca_IThO9vLLQ5b",
       "tmx_id": 216943,
       "name": "Colors ft' sqlc, mime",
@@ -357,6 +325,54 @@
       }
     },
     {
+      "uid": "QCH8CzEZB0HnZROBmNuhWK4Xqn",
+      "tmx_id": 140582,
+      "name": "Spork in the Road",
+      "author": "velv",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "B",
+        "times": [
+          52900,
+          52500,
+          52250
+        ]
+      }
+    },
+    {
+      "uid": "CIDssxsPFMtwkTlgLGBJk3kmese",
+      "tmx_id": 154571,
+      "name": "Tagilla",
+      "author": "velv",
+      "mod": "https://cdn.evotm.com/tm2020/EVO_MOD.zip",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "A",
+        "times": [
+          48800,
+          48450,
+          48200
+        ]
+      }
+    },
+    {
+      "uid": "vjyNNUu997cC5PW8e3x7Y9RsAF0",
+      "tmx_id": 237664,
+      "name": "DW25 - Acchitchi",
+      "author": "sqlc",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "A",
+        "times": [
+          48150,
+          47750,
+          47500
+        ]
+      }
+    },
+    {
       "uid": "aouXvPLM4pAcf5e3KO_EjpCtWF7",
       "tmx_id": 279039,
       "name": "Not Yet ft Djabski",
@@ -385,22 +401,6 @@
           50050,
           49600,
           49290
-        ]
-      }
-    },
-    {
-      "uid": "QCH8CzEZB0HnZROBmNuhWK4Xqn",
-      "tmx_id": 140582,
-      "name": "Spork in the Road",
-      "author": "velv",
-      "mod": "",
-      "difficulty": 2,
-      "pvm": {
-        "grade": "B",
-        "times": [
-          52900,
-          52500,
-          52250
         ]
       }
     },
