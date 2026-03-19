@@ -2,12 +2,12 @@
   "structure": {
     "medals": [
       {
-        "name": "Player",
+        "name": "Intermediate",
         "icon": "\uF111",
         "colour": "488"
       },
       {
-        "name": "Challenger",
+        "name": "Advanced",
         "icon": "\uF111",
         "colour": "EC3"
       },
@@ -28,7 +28,7 @@
       "mod": "",
       "difficulty": 0,
       "pvm": {
-        "grade": "E",
+        "grade": "Iron",
         "times": [
           17400,
           17250,
@@ -44,7 +44,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "E",
+        "grade": "Iron",
         "times": [
           19850,
           19600,
@@ -60,7 +60,7 @@
       "mod": "",
       "difficulty": 2,
       "pvm": {
-        "grade": "E",
+        "grade": "Iron",
         "times": [
           22350,
           22090,
@@ -76,7 +76,7 @@
       "mod": "",
       "difficulty": 2,
       "pvm": {
-        "grade": "E",
+        "grade": "Iron",
         "times": [
           23750,
           23500,
@@ -92,7 +92,7 @@
       "mod": "",
       "difficulty": 2,
       "pvm": {
-        "grade": "E",
+        "grade": "Iron",
         "times": [
           21800,
           21570,
@@ -108,7 +108,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "D",
+        "grade": "Bronze",
         "times": [
           24550,
           24280,
@@ -124,7 +124,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "D",
+        "grade": "Bronze",
         "times": [
           32700,
           32400,
@@ -140,7 +140,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "D",
+        "grade": "Bronze",
         "times": [
           38900,
           38550,
@@ -156,7 +156,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "D",
+        "grade": "Bronze",
         "times": [
           47100,
           46800,
@@ -172,7 +172,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "D",
+        "grade": "Bronze",
         "times": [
           43100,
           42850,
@@ -188,7 +188,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "C",
+        "grade": "Silver",
         "times": [
           47900,
           47550,
@@ -204,7 +204,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "C",
+        "grade": "Silver",
         "times": [
           47500,
           47250,
@@ -220,7 +220,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "C",
+        "grade": "Silver",
         "times": [
           40600,
           40270,
@@ -236,7 +236,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "C",
+        "grade": "Silver",
         "times": [
           50350,
           50000,
@@ -252,7 +252,7 @@
       "mod": "",
       "difficulty": 2,
       "pvm": {
-        "grade": "C",
+        "grade": "Silver",
         "times": [
           42600,
           42250,
@@ -268,7 +268,7 @@
       "mod": "",
       "difficulty": 0,
       "pvm": {
-        "grade": "B",
+        "grade": "Gold",
         "times": [
           48800,
           48400,
@@ -284,7 +284,7 @@
       "mod": "",
       "difficulty": 0,
       "pvm": {
-        "grade": "B",
+        "grade": "Gold",
         "times": [
           53550,
           53150,
@@ -300,7 +300,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "B",
+        "grade": "Gold",
         "times": [
           50500,
           50100,
@@ -316,7 +316,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "B",
+        "grade": "Gold",
         "times": [
           43650,
           43250,
@@ -332,7 +332,7 @@
       "mod": "",
       "difficulty": 2,
       "pvm": {
-        "grade": "B",
+        "grade": "Gold",
         "times": [
           52900,
           52500,
@@ -348,7 +348,7 @@
       "mod": "https://cdn.evotm.com/tm2020/EVO_MOD.zip",
       "difficulty": 1,
       "pvm": {
-        "grade": "A",
+        "grade": "Platinum",
         "times": [
           48800,
           48450,
@@ -364,7 +364,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "A",
+        "grade": "Platinum",
         "times": [
           48150,
           47750,
@@ -380,7 +380,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "A",
+        "grade": "Platinum",
         "times": [
           49000,
           48600,
@@ -396,7 +396,7 @@
       "mod": "",
       "difficulty": 0,
       "pvm": {
-        "grade": "A",
+        "grade": "Platinum",
         "times": [
           50050,
           49600,
@@ -412,7 +412,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "A",
+        "grade": "Platinum",
         "times": [
           54000,
           53600,
@@ -428,7 +428,7 @@
       "mod": "",
       "difficulty": 2,
       "pvm": {
-        "grade": "S",
+        "grade": "Emerald",
         "times": [
           47250,
           46780,
@@ -444,7 +444,7 @@
       "mod": "",
       "difficulty": 1,
       "pvm": {
-        "grade": "S",
+        "grade": "Emerald",
         "times": [
           70200,
           69500,
@@ -460,7 +460,7 @@
       "mod": "",
       "difficulty": 2,
       "pvm": {
-        "grade": "S",
+        "grade": "Emerald",
         "times": [
           49900,
           49370,
@@ -476,7 +476,7 @@
       "mod": "",
       "difficulty": 2,
       "pvm": {
-        "grade": "S",
+        "grade": "Emerald",
         "times": [
           44500,
           44040,
@@ -492,7 +492,7 @@
       "mod": "",
       "difficulty": 2,
       "pvm": {
-        "grade": "S",
+        "grade": "Emerald",
         "times": [
           61980,
           61375,
@@ -500,5 +500,85 @@
         ]
       }
     }
+    {
+      "uid": "QkTZ1Jyjn9HV45cxvkSpz0M2R7c",
+      "tmx_id": 144481,
+      "name": "CCP#10 - The Little Match Girl ft' Giilo",
+      "author": "LinhZVN",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Diamond",
+        "times": [
+          56950,
+          56300,
+          55875
+        ]
+      }
+    },
+    {
+      "uid": "E8x8rsP3i2JVK_Im1Kof0ElvCw6",
+      "tmx_id": 144072,
+      "name": "CCP#01 - Mourning Frost",
+      "author": "sophie.ice",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Diamond",
+        "times": [
+          55250,
+          54725,
+          54350
+        ]
+      }
+    },
+    {
+      "uid": "vuL_rKoGmR53KXOkoqP48VOs_z5",
+      "tmx_id": 145322,
+      "name": "CCP#14 - Skiing in December",
+      "author": "SkiFreak",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Diamond",
+        "times": [
+          57440,
+          56890,
+          56525
+        ]
+      }
+    },
+    {
+     "uid": "WbifnSN9F8imT1IqROdEQh1qyL9",
+      "tmx_id": 263401,
+      "name": "MM2 - capoo",
+      "author": "sqlc",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Diamond",
+        "times": [
+          58150,
+          57600,
+          57200
+        ]
+      }
+    },
+    {
+     "uid": "_tbJMs_6xWVMMHOcT_pQOYB86xh",
+      "tmx_id": 262775,
+      "name": "Shabriri",
+      "author": "Giilo",
+      "mod": "",
+      "difficulty": 3,
+      "pvm": {
+        "grade": "Diamond",
+        "times": [
+          44770,
+          44300,
+          43950
+        ]
+      }
+    },
   ]
 }
