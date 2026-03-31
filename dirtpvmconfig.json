@@ -579,6 +579,86 @@
           43950
         ]
       }
+    },
+    {
+     "uid": "Rrq5l0ZdwTklZnrKRAfgHCbKYq8",
+      "tmx_id": 238154,
+      "name": "Nitrates",
+      "author": "Novu",
+      "mod": "",
+      "difficulty": 0,
+      "pvm": {
+        "grade": "Master",
+        "times": [
+          60000,
+          59475,
+          59050
+        ]
+      }
+    },
+    {
+     "uid": "aSB6WENKU6g0wKMtRifPSKLgrs",
+      "tmx_id": 258942,
+      "name": "MM2 - Like A Raspberry",
+      "author": "mime.wp",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Master",
+        "times": [
+          63150,
+          62500,
+          62025
+        ]
+      }
+    },
+    {
+     "uid": "mkxFacE6FvbEAKe1Mudu4CWwky7",
+      "tmx_id": 226134,
+      "name": "Coconut Killer",
+      "author": "velv",
+      "mod": "",
+      "difficulty": 3,
+      "pvm": {
+        "grade": "Master",
+        "times": [
+          65800,
+          65050,
+          64550
+        ]
+      }
+    },
+    {
+     "uid": "tL6h582sy05fwlM5fHw8wzvqUWa",
+      "tmx_id": 33000,
+      "name": "[NDC] - Impact",
+      "author": "_firestorrm",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Master",
+        "times": [
+          65400,
+          64680,
+          64200
+        ]
+      }
+    },
+    {
+     "uid": "4eXnrcMi0MnqoFJ1FEbNFK_37Ki",
+      "tmx_id": 145465,
+      "name": "Dirting home for Christmas",
+      "author": "velv",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Master",
+        "times": [
+          78000,
+          77200,
+          76500
+        ]
+      }
     }
   ]
 }
