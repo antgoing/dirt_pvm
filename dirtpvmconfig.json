@@ -739,6 +739,86 @@
           142540
         ]
       }
+    },
+     {
+     "uid": "6EIgCiiBRadHK0jmnXF2ME3i2Jg",
+      "tmx_id": 81785,
+      "name": "CCP#09 - With You, Friends",
+      "author": "Whizzy",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Challenger",
+        "times": [
+          400000,
+          395000,
+          391000
+        ]
+      }
+    },
+    {
+     "uid": "90qzZZFJpCWbffh6NJtQEJ9dw78",
+      "tmx_id": 145481,
+      "name": "Paru",
+      "author": "DoogieMD",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Challenger",
+        "times": [
+          190500,
+          187200,
+          185000
+        ]
+      }
+    },
+    {
+     "uid": "d4Z3FDiqkgj4XGdGKPfxLQIr1O1",
+      "tmx_id": 100326,
+      "name": "Wide Eyed Stupid",
+      "author": "velv",
+      "mod": "",
+      "difficulty": 3,
+      "pvm": {
+        "grade": "Challenger",
+        "times": [
+          262500,
+          258500,
+          256000
+        ]
+      }
+    },
+    {
+     "uid": "1lHpCrEwNNZOxgklv_NNnrVU122",
+      "tmx_id": 120495,
+      "name": "Wobbegong",
+      "author": "Sophie",
+      "mod": "",
+      "difficulty": 3,
+      "pvm": {
+        "grade": "Challenger",
+        "times": [
+          359000,
+          354500,
+          350367
+        ]
+      }
+    },
+    {
+     "uid": "vnRySQK8DcatvNQIY4eYVRdpvYd",
+      "tmx_id": 110775,
+      "name": "Ragnarok ft' mime",
+      "author": "Intax",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Challenger",
+        "times": [
+          168500,
+          165300,
+          163500
+        ]
+      }
     }
   ]
 }
