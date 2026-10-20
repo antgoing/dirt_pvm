@@ -4,17 +4,17 @@
       {
         "name": "Intermediate",
         "icon": "\uF111",
-        "colour": "488"
+        "colour": "FFF"
       },
       {
         "name": "Advanced"
         "icon": "\uF111",
-        "colour": "EC3"
+        "colour": "3EF"
       },
       {
         "name": "Alien",
         "icon": "\uF05B",
-        "colour": "FC4"
+        "colour": "FF4"
       }
     ],
     "id": 3
