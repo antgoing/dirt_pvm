@@ -572,7 +572,7 @@
       "mod": "",
       "difficulty": 2,
       "pvm": {
-        "grade": "Emerald",
+        "grade": "Platinum",
         "times": [
           44500,
           44040,
@@ -629,9 +629,9 @@
       }
     },
     {
-      "uid": "E8x8rsP3i2JVK_Im1Kof0ElvCw6",
-      "tmx_id": 144072,
-      "name": "CCP#01 - Mourning Frost",
+      "uid": "MzqyTPlhYli9EkX_sO5jZ4xHy3f",
+      "tmx_id": 366226,
+      "name": "PVM - Mourning Frost",
       "author": "sophie.ice",
       "mod": "",
       "difficulty": 2,
@@ -684,7 +684,7 @@
       "mod": "",
       "difficulty": 3,
       "pvm": {
-        "grade": "Diamond",
+        "grade": "Emerald",
         "times": [
           44770,
           44300,
@@ -700,7 +700,7 @@
       "mod": "",
       "difficulty": 0,
       "pvm": {
-        "grade": "Master",
+        "grade": "Diamond",
         "times": [
           60000,
           59475,
@@ -780,7 +780,7 @@
       "mod": "",
       "difficulty": 2,
       "pvm": {
-        "grade": "Grandmaster",
+        "grade": "Master",
         "times": [
           79600,
           78750,
