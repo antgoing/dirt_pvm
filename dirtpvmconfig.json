@@ -101,6 +101,22 @@
       }
     },
     {
+      "uid": "szJRWv7tJwy024GbzD4PFSqn3Zk",
+      "tmx_id": 301824,
+      "name": "m short - 27",
+      "author": "mime",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Iron",
+        "times": [
+          20520,
+          20310,
+          20200
+        ]
+      }
+    },
+    {
       "uid": "oOnMpHRAxtPjbO4QjY1E0mLqVdd",
       "tmx_id": 158703,
       "name": "Dim Light",
@@ -177,6 +193,22 @@
           43100,
           42850,
           42650
+        ]
+      }
+    },
+    {
+      "uid": "CM1rJpeq7aEeHIgCiyRR7BWsQXa",
+      "tmx_id": 309722,
+      "name": "Cassoulet",
+      "author": "Novu",
+      "mod": "",
+      "difficulty": 0,
+      "pvm": {
+        "grade": "Bronze",
+        "times": [
+          26450,
+          26180,
+          26000
         ]
       }
     },
@@ -261,6 +293,22 @@
       }
     },
     {
+      "uid": "o2xCMLM5SIWXwfX6pCjUIjVNs91",
+      "tmx_id": 107271,
+      "name": "Rhodonite",
+      "author": "Ozei",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Silver",
+        "times": [
+          51600,
+          51150,
+          50750
+        ]
+      }
+    },
+    {
       "uid": "LErkJnoPnX3Jcca_IThO9vLLQ5b",
       "tmx_id": 216943,
       "name": "Colors ft' sqlc, mime",
@@ -337,6 +385,38 @@
           52900,
           52400,
           52075
+        ]
+      }
+    },
+    {
+      "uid": "PGchWdzQw0RD6RKzLvyJyITNc8d",
+      "tmx_id": 306960,
+      "name": "Chocolatine",
+      "author": "Novu",
+      "mod": "",
+      "difficulty": 0,
+      "pvm": {
+        "grade": "Gold",
+        "times": [
+          50150,
+          49675,
+          49300
+        ]
+      }
+    },
+    {
+      "uid": "CIDssxsPFMtwkTlgLGBJk3kmese",
+      "tmx_id": 356660,
+      "name": "Please let me dream",
+      "author": "salty",
+      "mod": "",
+      "difficulty": 0,
+      "pvm": {
+        "grade": "Gold",
+        "times": [
+          43150,
+          42775,
+          42525
         ]
       }
     },
@@ -421,6 +501,22 @@
       }
     },
     {
+      "uid": "4cBpDFZ5IPVDhCP2oiH6HJVbnok",
+      "tmx_id": 312146,
+      "name": "DW26' - Banaynay",
+      "author": "Giilo",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Platinum",
+        "times": [
+          47100,
+          46725,
+          46400
+        ]
+      }
+    },
+    {
       "uid": "A5B0BB8eczuJib4BC12cJwsnJme",
       "tmx_id": 180973,
       "name": "CYAN",
@@ -472,7 +568,7 @@
       "uid": "AIMtIDua5NpoCb58gAexWTIyAcg",
       "tmx_id": 286939,
       "name": "so G•I•R•L•",
-      "author": "ZiggyyKayy",
+      "author": "Ziggyy",
       "mod": "",
       "difficulty": 2,
       "pvm": {
@@ -497,6 +593,22 @@
           61980,
           61375,
           60950
+        ]
+      }
+    },
+     {
+      "uid": "tvGdi7OmB715XWmZMLr4u9gIJMj",
+      "tmx_id": 310902,
+      "name": "The Heat Goes On",
+      "author": "Ziggyy",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Emerald",
+        "times": [
+          51500,
+          51100,
+          50750
         ]
       }
     },
@@ -737,6 +849,22 @@
           145000,
           143450,
           142540
+        ]
+      }
+    },
+    {
+     "uid": "7YClkKtOuhqZ2mx36KI52JQdV15",
+      "tmx_id": 345314,
+      "name": "TMP - Egregious Ambition Ft' Hendo",
+      "author": "LucaWGI",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Grandmaster",
+        "times": [
+          105500,
+          104000,
+          103228
         ]
       }
     },
